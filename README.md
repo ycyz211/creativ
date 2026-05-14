@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Website Cloner Template
 
 <a href="https://github.com/JCodesMore/ai-website-cloner-template/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT License" /></a> <a href="https://github.com/JCodesMore/ai-website-cloner-template/stargazers"><img src="https://img.shields.io/github/stars/JCodesMore/ai-website-cloner-template?style=flat" alt="Stars" /></a> <a href="https://discord.gg/hrTSX5yTpB"><img src="https://img.shields.io/discord/1400896964597383279?label=discord" alt="Discord" /></a>
@@ -153,3 +154,6 @@ Each script regenerates the platform-specific copies automatically. Agents that 
 ## License
 
 MIT
+=======
+# creativ
+>>>>>>> fe0727b8c0728628fe262c7fcfc652ab35a611bb
